@@ -1,0 +1,28 @@
+name: jackgordonplane
+favicon: null
+layout_spectrum: 0.8351090587675571
+typography_spectrum: 0.8840695226099342
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7292062533088028
+  lightness: 0.9595908548217267
+  saturation: 0.5989332916215062
+  rhythmicContrast: 0.38258898817002773
+purpose: []
