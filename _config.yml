@@ -1,7 +1,7 @@
 name: jackgordonplane
 favicon: null
-layout_spectrum: 0.72549
-typography_spectrum: 0.8848
+layout_spectrum: 0.47632
+typography_spectrum: 1
 title: 'Professional Writer | Serious Reader | World Traveller |'
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#3c74b1'
     - '#014681'
   brandStrength: 1
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 0.5
+  lightness: 0.6875
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
