@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T03:57:32.864Z'
-dateModified: '2015-12-17T03:56:01.280Z'
+datePublished: '2015-12-17T04:12:43.114Z'
+dateModified: '2015-12-17T04:12:40.397Z'
 title: Connect
 author: []
 sourcePath: _posts/2015-12-10-social-media.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: connect/index.html
+_type: WebPage
 
 ---
 # Connect
